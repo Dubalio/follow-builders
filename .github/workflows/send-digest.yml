@@ -1,0 +1,44 @@
+name: Send Digest
+
+on:
+  schedule:
+    # Weekly, Monday 08:00 America/Argentina/Buenos_Aires (UTC-3, no DST)
+    - cron: '0 11 * * 1'
+  workflow_dispatch: {}
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: cd scripts && npm install
+
+      - name: Write local config and secrets
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          mkdir -p ~/.follow-builders
+          cat > ~/.follow-builders/config.json << EOF
+          {
+            "language": "en",
+            "frequency": "weekly",
+            "delivery": {
+              "method": "telegram",
+              "chatId": "$TELEGRAM_CHAT_ID"
+            }
+          }
+          EOF
+          echo "TELEGRAM_BOT_TOKEN=$TELEGRAM_BOT_TOKEN" > ~/.follow-builders/.env
+
+      - name: Build and send digest
+        run: |
+          cd scripts
+          node prepare-digest.js | node format-digest.js | node deliver.js
