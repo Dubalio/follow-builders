@@ -1,0 +1,34 @@
+name: Collect Daily
+
+on:
+  schedule:
+    # Every day at 09:00 UTC — after the upstream feed refresh (06:17 UTC)
+    - cron: '0 9 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: cd scripts && npm install
+
+      - name: Collect today's tweets into the weekly buffer
+        run: cd scripts && node collect-daily.js
+
+      - name: Commit and push buffer
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add weekly-buffer.json
+          git diff --cached --quiet || git commit -m "chore: collect daily tweets [skip ci]"
+          git push
