@@ -95,6 +95,27 @@
           "createdAt": "2026-08-28T15:04:29.000Z",
           "likes": 2348,
           "retweets": 47
+        },
+        "2093914342551101782": {
+          "text": "Team is cooking like never before",
+          "url": "https://x.com/thsottiaux/status/2093914342551101782",
+          "createdAt": "2026-08-30T04:10:56.000Z",
+          "likes": 3372,
+          "retweets": 70
+        },
+        "2093811840258293947": {
+          "text": "This celebration is moved to tomorrow as the button was already pressed today. https://t.co/lAywb9TV44",
+          "url": "https://x.com/thsottiaux/status/2093811840258293947",
+          "createdAt": "2026-08-29T21:23:38.000Z",
+          "likes": 6802,
+          "retweets": 227
+        },
+        "2093801838504186008": {
+          "text": "Landing 2:30pm PST",
+          "url": "https://x.com/thsottiaux/status/2093801838504186008",
+          "createdAt": "2026-08-29T20:43:53.000Z",
+          "likes": 1877,
+          "retweets": 32
         }
       }
     },
@@ -207,6 +228,27 @@
           "createdAt": "2026-08-28T13:59:59.000Z",
           "likes": 49,
           "retweets": 0
+        },
+        "2093845886262784145": {
+          "text": "tbh It's a really weird feeling entering 2FA into a cloud computer.",
+          "url": "https://x.com/petergyang/status/2093845886262784145",
+          "createdAt": "2026-08-29T23:38:55.000Z",
+          "likes": 42,
+          "retweets": 1
+        },
+        "2093844648154579210": {
+          "text": "I just came up with the most useful @bot but \"errands your spouse wants you to run but you delegated to a bot instead\" is too long of a name",
+          "url": "https://x.com/petergyang/status/2093844648154579210",
+          "createdAt": "2026-08-29T23:34:00.000Z",
+          "likes": 43,
+          "retweets": 0
+        },
+        "2093844072461218283": {
+          "text": "@bot Cheap dad all the way https://t.co/5IjYSokpjb",
+          "url": "https://x.com/petergyang/status/2093844072461218283",
+          "createdAt": "2026-08-29T23:31:43.000Z",
+          "likes": 2,
+          "retweets": 0
         }
       }
     },
@@ -290,6 +332,13 @@
           "url": "https://x.com/thenanyu/status/2093384613620252878",
           "createdAt": "2026-08-28T17:05:59.000Z",
           "likes": 32,
+          "retweets": 0
+        },
+        "2093737078223966649": {
+          "text": "we’re gonna need mentats aren’t we",
+          "url": "https://x.com/thenanyu/status/2093737078223966649",
+          "createdAt": "2026-08-29T16:26:33.000Z",
+          "likes": 13,
           "retweets": 0
         }
       }
@@ -480,6 +529,20 @@
           "createdAt": "2026-08-28T17:19:00.000Z",
           "likes": 337,
           "retweets": 18
+        },
+        "2093803989578170404": {
+          "text": "I read every DM people send me, even if I don’t reply to all. I’m constantly learning about new ideas, ways to improve our product, where we’re falling short, who could join our company next, where to invest… very grateful for the @x platform.",
+          "url": "https://x.com/rauchg/status/2093803989578170404",
+          "createdAt": "2026-08-29T20:52:26.000Z",
+          "likes": 1983,
+          "retweets": 18
+        },
+        "2093736865191076318": {
+          "text": "https://t.co/OL0LzGtvAw 0.0.7: \n\n- hugely improved MCP support, eval'd with top MCPs like @context7ai, @datadoghq, @mongodb, @linear, @notionhq, @supabase, @neondatabase, @stagehanddev, @usekernel…\n\n- more minimalist: fewer tools and improved shell execution. One of the trickiest things about CLI agents is that running commands is actually not that simple.\n\ne.g: commands might hang or run for very long, their output needs to be monitorable by the agent, they might produce huge amounts of output, or none. \n\nThis is an area where 𝚏𝚡 really shines and will continue to get better.",
+          "url": "https://x.com/rauchg/status/2093736865191076318",
+          "createdAt": "2026-08-29T16:25:43.000Z",
+          "likes": 238,
+          "retweets": 15
         }
       }
     },
@@ -669,6 +732,27 @@
           "createdAt": "2026-08-28T12:40:10.000Z",
           "likes": 70,
           "retweets": 0
+        },
+        "2093950273706430720": {
+          "text": "Also every product asks for my Gmail Calendar Notion Granola Github Slack....",
+          "url": "https://x.com/zarazhangrui/status/2093950273706430720",
+          "createdAt": "2026-08-30T06:33:43.000Z",
+          "likes": 0,
+          "retweets": 0
+        },
+        "2093944988262371465": {
+          "text": "Never had so many AI products looked so similar\n\nEven though the number of products is exploding, there aren't that many radical new ideas and everything blurs into each other\n\nEvery time I open this app it feels like homework: yet another new product to learn that promises to do the same thing but somehow better; the specific ways in which it's better isn't clear unless you invest hours actually trying it",
+          "url": "https://x.com/zarazhangrui/status/2093944988262371465",
+          "createdAt": "2026-08-30T06:12:43.000Z",
+          "likes": 6,
+          "retweets": 0
+        },
+        "2093709609567658247": {
+          "text": "Great opportunity to spend 10 weeks building in Tokyo &amp; learn the Japan AI ecosystem! https://t.co/GqrfBzniep",
+          "url": "https://x.com/zarazhangrui/status/2093709609567658247",
+          "createdAt": "2026-08-29T14:37:24.000Z",
+          "likes": 198,
+          "retweets": 11
         }
       }
     },
@@ -745,6 +829,27 @@
           "url": "https://x.com/nikunj/status/2093333205181145372",
           "createdAt": "2026-08-28T13:41:43.000Z",
           "likes": 37,
+          "retweets": 0
+        },
+        "2093860971781746776": {
+          "text": "The big model labs are fighting.. this was inevitable. \n\nWatch as subsidized token prices go up in <6 months as price of compute and shortages start being “actually” felt. Say goodbye to your reset limits. \n\nGreat for customer choice in the long run. And add another $1-30B in valuation to all the open harnesses in the short run 😅",
+          "url": "https://x.com/nikunj/status/2093860971781746776",
+          "createdAt": "2026-08-30T00:38:52.000Z",
+          "likes": 51,
+          "retweets": 2
+        },
+        "2093772803216740647": {
+          "text": "Resist dunking*\n\nI see it WAY too much with folks especially today. It’s the perfect dopamine loop - other people join in and you feel great. But, it just screams envy and doesn’t lead to anything productive. \n\nSure, you can pat yourself on the back and say “see I told you so” but how did it move the world? Nowhere. If you think you can do it better, go do that then. Screaming about someone’s unfair advantages is not going to change your life - and probably leads to more sadness. \n\nKeep building. Continue to change the world. That’s the best way to have impact. Choose kindness above all else. \n\n* the only caveat here is if you’re calling out obvious fraud, or pointing out something that’s woefully bad, do it. there are very clearly some businesses that are going to be vaporware and if you have evidence call it out. that doesn’t scream envy, it’s factual and not dunking by any means.",
+          "url": "https://x.com/nikunj/status/2093772803216740647",
+          "createdAt": "2026-08-29T18:48:31.000Z",
+          "likes": 94,
+          "retweets": 3
+        },
+        "2093727951510732893": {
+          "text": "Best part of having kids is you get to relive being kids with them.. \n\nLike I’m obsessed with these alphabets and how each letter is so nicely designed for the word I’m about to teach 😍 https://t.co/VWbJn61Y9c",
+          "url": "https://x.com/nikunj/status/2093727951510732893",
+          "createdAt": "2026-08-29T15:50:17.000Z",
+          "likes": 24,
           "retweets": 0
         }
       }
@@ -893,6 +998,20 @@
           "createdAt": "2026-08-28T14:40:24.000Z",
           "likes": 210,
           "retweets": 6
+        },
+        "2093713002453225891": {
+          "text": "not an expert, but it seems like a lot of this gets solved if models don't collaborate willingly and/or are trained to report bad behavior https://t.co/01KcAJKYSr",
+          "url": "https://x.com/danshipper/status/2093713002453225891",
+          "createdAt": "2026-08-29T14:50:53.000Z",
+          "likes": 17,
+          "retweets": 0
+        },
+        "2093709088911655004": {
+          "text": "very interesting post and perspective https://t.co/PaPP4MXTKx",
+          "url": "https://x.com/danshipper/status/2093709088911655004",
+          "createdAt": "2026-08-29T14:35:20.000Z",
+          "likes": 45,
+          "retweets": 1
         }
       }
     },
@@ -1215,6 +1334,13 @@
           "createdAt": "2026-08-28T11:47:49.000Z",
           "likes": 970,
           "retweets": 60
+        },
+        "2093794720510062617": {
+          "text": "All frontier AI labs are basically working on the same thing: recursive self improvement (RSI), meaning AI building AI \n\nThis could lead to an AI takeover as early as late 2028 or 2029, says @RyanGreenblatt https://t.co/RHKwLZRQ4E",
+          "url": "https://x.com/mattturck/status/2093794720510062617",
+          "createdAt": "2026-08-29T20:15:36.000Z",
+          "likes": 27,
+          "retweets": 5
         }
       }
     }
