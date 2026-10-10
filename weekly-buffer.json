@@ -81,6 +81,27 @@
           "createdAt": "2026-10-08T19:15:14.000Z",
           "likes": 8346,
           "retweets": 268
+        },
+        "2108777962053292398": {
+          "text": "Your ChatGPT subscription is now also a Devin subscription https://t.co/kJE3sbq2wP",
+          "url": "https://x.com/thsottiaux/status/2108777962053292398",
+          "createdAt": "2026-10-10T04:33:40.000Z",
+          "likes": 2528,
+          "retweets": 130
+        },
+        "2108773703064657936": {
+          "text": "Dots got a pretty big upgrade https://t.co/j54EmJMwLu",
+          "url": "https://x.com/thsottiaux/status/2108773703064657936",
+          "createdAt": "2026-10-10T04:16:44.000Z",
+          "likes": 1470,
+          "retweets": 53
+        },
+        "2108650026671231468": {
+          "text": "Send feedback to @keyanzhang and @sharifshameem !",
+          "url": "https://x.com/thsottiaux/status/2108650026671231468",
+          "createdAt": "2026-10-09T20:05:17.000Z",
+          "likes": 259,
+          "retweets": 6
         }
       }
     },
@@ -165,6 +186,20 @@
           "createdAt": "2026-10-08T19:55:44.000Z",
           "likes": 18,
           "retweets": 1
+        },
+        "2108679515681722787": {
+          "text": "How about let's stop building more personal assistants to manage our emails and more AI startups to manage and cure diseases",
+          "url": "https://x.com/petergyang/status/2108679515681722787",
+          "createdAt": "2026-10-09T22:02:28.000Z",
+          "likes": 237,
+          "retweets": 12
+        },
+        "2108624122339287335": {
+          "text": "Pro @bot tip:\n\nIf you want your Grok Bot as a chief of staff it doesn't actually make sense to register its email as your (your-name) because it's weird to copy in yourself.\n\ne.g., \"Let me copy in Peter to find a time for us\" doesn't make alot of sense.\n\nSo I suggest picking another name for your Grok Bot email - whatever you want your chief of staff to be called.",
+          "url": "https://x.com/petergyang/status/2108624122339287335",
+          "createdAt": "2026-10-09T18:22:21.000Z",
+          "likes": 285,
+          "retweets": 4
         }
       }
     },
@@ -200,6 +235,20 @@
           "createdAt": "2026-10-09T00:32:20.000Z",
           "likes": 27,
           "retweets": 0
+        },
+        "2108671887266246730": {
+          "text": "Is this 🦋 recursive self-improvement?",
+          "url": "https://x.com/thenanyu/status/2108671887266246730",
+          "createdAt": "2026-10-09T21:32:09.000Z",
+          "likes": 3,
+          "retweets": 0
+        },
+        "2108671762984731037": {
+          "text": "I cannot stress how much I’ve loved using this feature. \n\nFirst we wrote code by hand, then we tab-completed the code. \n\nThen we evolved to prompting agents…and now we tab-complete that too. https://t.co/xxBRKd6SxB",
+          "url": "https://x.com/thenanyu/status/2108671762984731037",
+          "createdAt": "2026-10-09T21:31:40.000Z",
+          "likes": 75,
+          "retweets": 2
         }
       }
     },
@@ -221,6 +270,13 @@
           "createdAt": "2026-10-08T16:41:39.000Z",
           "likes": 387,
           "retweets": 36
+        },
+        "2108618266776387886": {
+          "text": "Open-weight models did not start the drop in price per unit of intelligence. They are a tailwind on a trend that was already underway.\n\nFor the last few years, a few factors have driven price drops:\n\n1/ Model builders distilling their best models into smaller ones, with cheaper inference\n\n2/ Infra efficiency\n\n3/ Competition between model providers\n\nYou can see this pattern with every model company: Version x of the mid-size model = intelligence of version x-1 of the large model.  Same intelligence for less $.",
+          "url": "https://x.com/realmadhuguru/status/2108618266776387886",
+          "createdAt": "2026-10-09T17:59:05.000Z",
+          "likes": 9,
+          "retweets": 0
         }
       }
     },
@@ -312,6 +368,20 @@
           "createdAt": "2026-10-08T21:01:03.000Z",
           "likes": 92,
           "retweets": 1
+        },
+        "2108802833986552174": {
+          "text": "honestly pretty cool to have this on my new tab page \n\njust merged in some PRs by others too! https://t.co/OOzflxL3N7 https://t.co/3AE65z3VqK",
+          "url": "https://x.com/trq212/status/2108802833986552174",
+          "createdAt": "2026-10-10T06:12:29.000Z",
+          "likes": 118,
+          "retweets": 1
+        },
+        "2108689101503566319": {
+          "text": "before I joined Anthropic, I spent about 2 weeks hacking on this as a side project with Opus 4. It used the Agent SDK so it needed a constantly running process &amp; didnt work that well\n\nbut one prompt to Opus 5.5 ported it to Claude Managed Agents &amp; made it way more reliable https://t.co/3AE65z3VqK",
+          "url": "https://x.com/trq212/status/2108689101503566319",
+          "createdAt": "2026-10-09T22:40:34.000Z",
+          "likes": 852,
+          "retweets": 30
         }
       }
     },
@@ -375,6 +445,13 @@
           "createdAt": "2026-10-07T20:11:06.000Z",
           "likes": 224,
           "retweets": 12
+        },
+        "2108597112707686552": {
+          "text": "Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?",
+          "url": "https://x.com/amasad/status/2108597112707686552",
+          "createdAt": "2026-10-09T16:35:02.000Z",
+          "likes": 353,
+          "retweets": 7
         }
       }
     },
@@ -424,6 +501,20 @@
           "createdAt": "2026-10-09T03:29:25.000Z",
           "likes": 528,
           "retweets": 20
+        },
+        "2108733051283050964": {
+          "text": "Some interesting machine & agent Vercel traffic stats.\n\n• Across the entire Vercel network, 58.18% traffic is bot-originated (last 30d). This was 32% in Jan 2024.\n\n• 60%+ of deployments on Vercel are now agentic, up from ~3% in Jan 2026.\n\n• Up to 83% of pageviews are now coming from agents to Vercel's own documentation sites. The % reliably increases the more we optimize content for them.\n\nI expect 'direct' human internet traffic to basically become a rounding error in coming years. The web will thrive, but it will be built for and by agents.",
+          "url": "https://x.com/rauchg/status/2108733051283050964",
+          "createdAt": "2026-10-10T01:35:12.000Z",
+          "likes": 277,
+          "retweets": 14
+        },
+        "2108669027363295323": {
+          "text": "It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure products and services. We've been shocked by how often they buy from our marketplace via our CLI already. We're now extending this to domains.\n\nAgents can now go full stack, from idea to online business, with a banger domain name 😁",
+          "url": "https://x.com/rauchg/status/2108669027363295323",
+          "createdAt": "2026-10-09T21:20:47.000Z",
+          "likes": 324,
+          "retweets": 17
         }
       }
     },
@@ -466,6 +557,13 @@
           "createdAt": "2026-10-08T19:32:55.000Z",
           "likes": 99,
           "retweets": 16
+        },
+        "2108750943680630893": {
+          "text": "Agents spawning other agents, agents operating in the background on every task, and agent swarms will consume 1,000X more tokens than people prompting agents 1 at a time. \n\nThe usage of AI as a chat system that can only work for you at the pace that you can prompt it will seem like a relic within a year or two. The vast, vast majority of tokens will be consumed by agents that are just doing continuous work for us in the background and in our workflows.\n\nThis is why we’re still so early in the curve of AI agent adoption right now, and how much more compute and infrastructure build out will be needed to sustain this.",
+          "url": "https://x.com/levie/status/2108750943680630893",
+          "createdAt": "2026-10-10T02:46:18.000Z",
+          "likes": 530,
+          "retweets": 41
         }
       }
     },
@@ -564,6 +662,27 @@
           "createdAt": "2026-10-09T04:04:45.000Z",
           "likes": 68,
           "retweets": 1
+        },
+        "2108756559564242964": {
+          "text": "Action to take https://t.co/YhkXw8J62X",
+          "url": "https://x.com/garrytan/status/2108756559564242964",
+          "createdAt": "2026-10-10T03:08:37.000Z",
+          "likes": 5,
+          "retweets": 0
+        },
+        "2108756335705907335": {
+          "text": "Activism as journalism like what Eskenazi does day in and day out should be defunded\n\nThis is not c3 work. This is not journalism. This is political work. https://t.co/DtFRBIG1by",
+          "url": "https://x.com/garrytan/status/2108756335705907335",
+          "createdAt": "2026-10-10T03:07:43.000Z",
+          "likes": 1,
+          "retweets": 1
+        },
+        "2108756019132379586": {
+          "text": "Only Nancy Tung has done anything to prevent ongoing misconduct and now the hard left crazies and the captured legacy media are on a witch hunt\n\nThis is politics as usual but normal voters should know it is pure dishonesty https://t.co/6pL9ZGl3EC",
+          "url": "https://x.com/garrytan/status/2108756019132379586",
+          "createdAt": "2026-10-10T03:06:28.000Z",
+          "likes": 35,
+          "retweets": 5
         }
       }
     },
@@ -620,6 +739,13 @@
           "createdAt": "2026-10-08T15:48:59.000Z",
           "likes": 109,
           "retweets": 18
+        },
+        "2108561284635480443": {
+          "text": "One prompt to build a professional-level video for your company or product, in your style... this is 🤯  \n\nBtw, quite literally the vision that @synthesiaIO has been pursuing since the early days. Happening slowly, then all at once.  Available to everyone today. https://t.co/jxhbMOXPZ8",
+          "url": "https://x.com/mattturck/status/2108561284635480443",
+          "createdAt": "2026-10-09T14:12:40.000Z",
+          "likes": 26,
+          "retweets": 4
         }
       }
     },
@@ -662,6 +788,20 @@
           "createdAt": "2026-10-08T02:51:14.000Z",
           "likes": 139,
           "retweets": 11
+        },
+        "2108711659846132092": {
+          "text": "Somehow Astra loves to use the Claude logo when designing websites 😂 https://t.co/uc3bMhU6u9",
+          "url": "https://x.com/zarazhangrui/status/2108711659846132092",
+          "createdAt": "2026-10-10T00:10:12.000Z",
+          "likes": 26,
+          "retweets": 1
+        },
+        "2108584212660129820": {
+          "text": "This thread is GOLD\nNever underestimate people’s creativity https://t.co/jYeBPExlMV",
+          "url": "https://x.com/zarazhangrui/status/2108584212660129820",
+          "createdAt": "2026-10-09T15:43:46.000Z",
+          "likes": 422,
+          "retweets": 32
         }
       }
     },
@@ -725,6 +865,27 @@
           "createdAt": "2026-10-09T04:13:01.000Z",
           "likes": 222,
           "retweets": 5
+        },
+        "2108710061627588964": {
+          "text": "Love this so so much. Basically how I have tried to emulate life, although Sunil’s father seems ultra special. \n\nBelieve in karma, universe finds a way to repay favors even if the people don’t. https://t.co/ajYawmSlYv",
+          "url": "https://x.com/nikunj/status/2108710061627588964",
+          "createdAt": "2026-10-10T00:03:51.000Z",
+          "likes": 38,
+          "retweets": 1
+        },
+        "2108620851130380610": {
+          "text": "And definitely DO NOT follow it up with an email as well.. what is going on people?? 🤷‍♂️ https://t.co/Bg9RNKnMfM",
+          "url": "https://x.com/nikunj/status/2108620851130380610",
+          "createdAt": "2026-10-09T18:09:21.000Z",
+          "likes": 4,
+          "retweets": 0
+        },
+        "2108616889605951834": {
+          "text": "Founders, please ask your marketing team to exclude VCs if you decide to promote your product on X..\n\nI get 3 DMs a day asking to \"collab\" on this \"insane opportunity\" which is *cough cough* a paid partnership.\n\nShows really poor judgement and word spreads around that you are trying to buy eyeballs to cue a big raise.",
+          "url": "https://x.com/nikunj/status/2108616889605951834",
+          "createdAt": "2026-10-09T17:53:37.000Z",
+          "likes": 35,
+          "retweets": 1
         }
       }
     },
@@ -809,6 +970,13 @@
           "createdAt": "2026-10-08T15:17:00.000Z",
           "likes": 147,
           "retweets": 10
+        },
+        "2108588611000275009": {
+          "text": "Working With Agents in Slack https://t.co/QkNBc5wqIs",
+          "url": "https://x.com/danshipper/status/2108588611000275009",
+          "createdAt": "2026-10-09T16:01:15.000Z",
+          "likes": 25,
+          "retweets": 4
         }
       }
     },
@@ -886,6 +1054,13 @@
           "createdAt": "2026-10-08T17:53:41.000Z",
           "likes": 19,
           "retweets": 2
+        },
+        "2108578813751791926": {
+          "text": "We hosted @svlevine at @spc this week. \n\nHe is perhaps the best example of clarity in action that I have seen in a long time.\n\nThank you for joining us, Sergey. https://t.co/QpBFTYyIhx",
+          "url": "https://x.com/adityaag/status/2108578813751791926",
+          "createdAt": "2026-10-09T15:22:19.000Z",
+          "likes": 27,
+          "retweets": 2
         }
       }
     },
@@ -920,6 +1095,20 @@
           "url": "https://x.com/swyx/status/2108388128390086675",
           "createdAt": "2026-10-09T02:44:36.000Z",
           "likes": 15,
+          "retweets": 0
+        },
+        "2108780918060036335": {
+          "text": "aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final unification of both my careers: from investment bank to hedgefund, from bigtech to nyc startup. cya monday! https://t.co/KIIGQgvWcZ https://t.co/sQwMDfGutk",
+          "url": "https://x.com/swyx/status/2108780918060036335",
+          "createdAt": "2026-10-10T04:45:24.000Z",
+          "likes": 21,
+          "retweets": 1
+        },
+        "2108563331376124389": {
+          "text": "most of you are unfortunately not qualified but there is somewhat a path https://t.co/l29L1HJVej \n\nwrote down mine in @Coding_Career 6 years ago and you can now get it free or on amazon https://t.co/P0wqju1nsk \n\ndidnt intend to relaunch CC today but eh why not",
+          "url": "https://x.com/swyx/status/2108563331376124389",
+          "createdAt": "2026-10-09T14:20:48.000Z",
+          "likes": 18,
           "retweets": 0
         }
       }
