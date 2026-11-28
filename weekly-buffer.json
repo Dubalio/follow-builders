@@ -81,6 +81,27 @@
           "createdAt": "2026-11-26T21:57:50.000Z",
           "likes": 8,
           "retweets": 1
+        },
+        "2126528949073453544": {
+          "text": "@michellechen https://t.co/ldgYNSN8lY",
+          "url": "https://x.com/swyx/status/2126528949073453544",
+          "createdAt": "2026-11-28T04:09:45.000Z",
+          "likes": 1,
+          "retweets": 0
+        },
+        "2126528882262348003": {
+          "text": "worthwhile talk on whats going on with the neolab reinventions https://t.co/OHtWw6m1Vp https://t.co/gJ228bXl5V",
+          "url": "https://x.com/swyx/status/2126528882262348003",
+          "createdAt": "2026-11-28T04:09:29.000Z",
+          "likes": 114,
+          "retweets": 5
+        },
+        "2126522235334832346": {
+          "text": "https://t.co/utPSHkHtFx",
+          "url": "https://x.com/swyx/status/2126522235334832346",
+          "createdAt": "2026-11-28T03:43:04.000Z",
+          "likes": 0,
+          "retweets": 0
         }
       }
     },
@@ -270,6 +291,27 @@
           "createdAt": "2026-11-26T18:32:29.000Z",
           "likes": 41,
           "retweets": 0
+        },
+        "2126494096793760032": {
+          "text": "I have to confess that instead of turkey we had wagyu hotpot for Thanksgiving. It was delicious.\n\n(eating the leftovers now)",
+          "url": "https://x.com/petergyang/status/2126494096793760032",
+          "createdAt": "2026-11-28T01:51:15.000Z",
+          "likes": 45,
+          "retweets": 0
+        },
+        "2126483723759882600": {
+          "text": "GTA 6: Lucia is a much better character than Jason. Jason is boring as hell and feels like he was meant to be a player avatar.",
+          "url": "https://x.com/petergyang/status/2126483723759882600",
+          "createdAt": "2026-11-28T01:10:02.000Z",
+          "likes": 62,
+          "retweets": 1
+        },
+        "2126355734720135215": {
+          "text": "Also, I still have a few Claude Max ($100 value) codes left for my newsletter's annual subscription, plus $600+ in codes for other top AI tools like Granola, Lovable, and more.\n\nSubscribe here to support my writing: https://t.co/aK8JeKZXgV https://t.co/uK7SHbK1VA",
+          "url": "https://x.com/petergyang/status/2126355734720135215",
+          "createdAt": "2026-11-27T16:41:27.000Z",
+          "likes": 6,
+          "retweets": 0
         }
       }
     },
@@ -354,6 +396,27 @@
           "createdAt": "2026-11-25T19:38:35.000Z",
           "likes": 25330,
           "retweets": 946
+        },
+        "2126386936579600522": {
+          "text": "this is also a call for evals",
+          "url": "https://x.com/trq212/status/2126386936579600522",
+          "createdAt": "2026-11-27T18:45:26.000Z",
+          "likes": 252,
+          "retweets": 3
+        },
+        "2126386934918651919": {
+          "text": "for example I asked both Claude (left) and Codex (right) to generate images for this tweet \n\nClaude's looks better and has thought about the problem ore (+creativity, +endurance) but Codex sticks to the spirit of what I want more (+ wisdom, +alignment) https://t.co/RQVXsJ3R2O",
+          "url": "https://x.com/trq212/status/2126386934918651919",
+          "createdAt": "2026-11-27T18:45:26.000Z",
+          "likes": 482,
+          "retweets": 7
+        },
+        "2126386932989210714": {
+          "text": "Models should be scored more like an RPG stat sheet than a leaderboard. https://t.co/dVkFqXXgNE",
+          "url": "https://x.com/trq212/status/2126386932989210714",
+          "createdAt": "2026-11-27T18:45:25.000Z",
+          "likes": 4791,
+          "retweets": 196
         }
       }
     },
@@ -494,6 +557,27 @@
           "createdAt": "2026-11-26T19:36:29.000Z",
           "likes": 744,
           "retweets": 24
+        },
+        "2126503317786530105": {
+          "text": "Everyday is breakthrough day",
+          "url": "https://x.com/rauchg/status/2126503317786530105",
+          "createdAt": "2026-11-28T02:27:54.000Z",
+          "likes": 259,
+          "retweets": 15
+        },
+        "2126434620816384451": {
+          "text": "Wow! @floraai is incredible, so this is high praise https://t.co/w31uccw3hF",
+          "url": "https://x.com/rauchg/status/2126434620816384451",
+          "createdAt": "2026-11-27T21:54:55.000Z",
+          "likes": 95,
+          "retweets": 3
+        },
+        "2126416639344472142": {
+          "text": "I love asking agents to investigate and describe the never-seen-before simulated universe they're in. https://t.co/pLBfp8Mzxt",
+          "url": "https://x.com/rauchg/status/2126416639344472142",
+          "createdAt": "2026-11-27T20:43:28.000Z",
+          "likes": 140,
+          "retweets": 3
         }
       }
     },
@@ -536,6 +620,13 @@
           "createdAt": "2026-11-26T16:02:30.000Z",
           "likes": 883,
           "retweets": 57
+        },
+        "2126389098227376238": {
+          "text": "This is the diffusion challenge and opportunity in a nutshell. Most people will probably get stuck with the use-cases that initially wowed them with AI, and have little incentive to move onto the next thing that will unlock another level of productivity.\n\nEven a large number of organizations can get stuck by being “satisfied” with AI gains, well before having full blown agents that can do any amount of work in the background or agent swarms that can take on complex, ambiguous problems.\n\nMuch of this comes down to the technical complexity of implementing the architectures around this. Despite lots of effort to simplify the UXes, there’s still a lot of system work, data pipelines, MCPs, and security that needs to be worked through to get the most out of agents. But even when you’re done with that, you still need to redesign your workflow or process overall to get the full benefits from agents.\n\nThis is why there’s so much opportunity to be an organization that figures this out early. It’s also why there’s going to be massive services and FDE opportunities right now as well, since most companies can’t do this on their own.",
+          "url": "https://x.com/levie/status/2126389098227376238",
+          "createdAt": "2026-11-27T18:54:02.000Z",
+          "likes": 232,
+          "retweets": 16
         }
       }
     },
@@ -634,6 +725,13 @@
           "createdAt": "2026-11-26T21:40:55.000Z",
           "likes": 62,
           "retweets": 1
+        },
+        "2126477464947892367": {
+          "text": "It’s really quite obvious why agents will accelerate the economy. \n\nThanksgiving, without agents: food coma, watch Netflix, some work, too tired \n\nThanksgiving, with agents:  that, plus email a bunch of electricians for that long overdue home project, plus Black Friday shopping, plus, plus, plus \n\nMultiply by millions of others doing the same, the economic impact is gigantic.",
+          "url": "https://x.com/mattturck/status/2126477464947892367",
+          "createdAt": "2026-11-28T00:45:10.000Z",
+          "likes": 35,
+          "retweets": 3
         }
       }
     },
@@ -753,6 +851,20 @@
           "createdAt": "2026-11-27T01:58:37.000Z",
           "likes": 23,
           "retweets": 1
+        },
+        "2126422715905311210": {
+          "text": "If I was a journalist posting revenue numbers from “hot” startups, this is the number one question I’d ask. \n\nBut then I won’t have a job anymore since no one is a) incentivized to give this to me and b) ever want to talk to me again 😂\n\nMy DMs are on fire regardless! https://t.co/tHa9KqaGT4",
+          "url": "https://x.com/nikunj/status/2126422715905311210",
+          "createdAt": "2026-11-27T21:07:37.000Z",
+          "likes": 17,
+          "retweets": 1
+        },
+        "2126326428522442812": {
+          "text": "The greatest tragedy right now in Silicon Valley that NO one wants to talk about is how some startups are \"reselling\" compute and calling it revenue.. not inference, just straight up selling compute to other companies. And, no their primary business is NOT selling compute. \n\nIn this era, where everyone wants to show high \"annualized run rate\" growth as that's the story that gets marked up, companies are now being even more creative in how to lump \"revenue\" into a month.\n\nIt started with GMV-like revenue with low margins, then inference at negative gross margins and now straight up reselling compute. All lumped into a tidy \"ARR\". \n\nNaive investors will lap it up since it allows them to pass deals through IC, and seed investors will celebrate their markups - but zero shot this ends well.",
+          "url": "https://x.com/nikunj/status/2126326428522442812",
+          "createdAt": "2026-11-27T14:45:00.000Z",
+          "likes": 711,
+          "retweets": 50
         }
       }
     },
@@ -816,6 +928,13 @@
           "createdAt": "2026-11-25T16:58:19.000Z",
           "likes": 184,
           "retweets": 9
+        },
+        "2126397711033438535": {
+          "text": "if you like me have looked at the exponential increase in AI capabilities you see in graphs with awe, fear, and foreboding\n\nI wrote about why they’re an effective way to measure AI capabilities in a lab. And why they’re nonsense when used to predict the future of human work: https://t.co/DTnGiO0SZs",
+          "url": "https://x.com/danshipper/status/2126397711033438535",
+          "createdAt": "2026-11-27T19:28:15.000Z",
+          "likes": 114,
+          "retweets": 15
         }
       }
     },
@@ -1012,6 +1131,27 @@
           "createdAt": "2026-11-26T19:33:38.000Z",
           "likes": 3,
           "retweets": 0
+        },
+        "2126468550437261706": {
+          "text": "I wish the larping would stop",
+          "url": "https://x.com/thenanyu/status/2126468550437261706",
+          "createdAt": "2026-11-28T00:09:44.000Z",
+          "likes": 33,
+          "retweets": 1
+        },
+        "2126406463803592972": {
+          "text": "https://t.co/D30u3ko1NB https://t.co/CPVPked3GP",
+          "url": "https://x.com/thenanyu/status/2126406463803592972",
+          "createdAt": "2026-11-27T20:03:02.000Z",
+          "likes": 3,
+          "retweets": 0
+        },
+        "2126404412604334391": {
+          "text": "you met me at a very chinese time in my life https://t.co/jIJdhzRmcQ",
+          "url": "https://x.com/thenanyu/status/2126404412604334391",
+          "createdAt": "2026-11-27T19:54:53.000Z",
+          "likes": 51,
+          "retweets": 1
         }
       }
     },
@@ -1096,6 +1236,20 @@
           "createdAt": "2026-11-25T16:24:14.000Z",
           "likes": 366,
           "retweets": 2
+        },
+        "2126382726400123137": {
+          "text": "https://t.co/HwqaRnpRNp",
+          "url": "https://x.com/ryolu_/status/2126382726400123137",
+          "createdAt": "2026-11-27T18:28:42.000Z",
+          "likes": 59,
+          "retweets": 4
+        },
+        "2126382660780167304": {
+          "text": "the race is not inevitable\n\nlast year was fun.\n\nthe models weren't that good yet, so i had to care about every detail. i pushed each thing until it had my thoughts and my designs. the tool helped. i did the driving.\n\nnow the roles have flipped. we describe and watch things come back finished. we used to drive our dreams. more and more, we just watch.\n\nwe set out to make things that give us more freedom. now we're racing toward something we might not be able to control.\n\nrecursive self-improvement. intelligence building more intelligence, until we're no longer the ones who understand what's happening.\n\nthat's the end game. the point where nobody is driving.\n\nthe big labs are racing to get there first. the same system that cures a disease could design a new virus, or find every hole in the internet all at once. only the selected few with access could do anything about it.\n\nand somehow the possibility of losing everything we love becomes an argument for going faster.\n\nbecause someone else might get there first, and they might be less careful.\nbecause the company needs to survive.\nbecause too much money is already committed.\n\neveryone has a good reason to keep going toward an outcome nobody wants. so we call it inevitable. then nobody has to answer for it.\n\nbut a race is made of decisions. someone approves the budget. someone decides the next model will help build the one after it.\n\nand we practice living inside the race long before we build it at the scale of civilization.\n\nsleep becomes recovery for work. friendship becomes a network. curiosity has to become a project before we let ourselves spend time on it.\n\nwe get very rational. we start acting like the machines we're building.\n\neven our feelings have to defend themselves.\nwhy are you sad? is that useful?\n\nsometimes the feeling is how i begin to find out.\n\nthere's a line in Zhuangzi.\n大知閑閑，小知閒閒。\n\ngreat knowledge is wide and unhurried. small knowledge is busy, always measuring.\n\ni don't think you can hurry your way to the first kind.\n\ni moved to Taipei to slow down and experience life.\n\nwalking around Da'an. going into a cafe, or a cheap buffet. meeting new friends by accident, who brought me to a shisha bar. a 24-hour tea house, talking about life and the world we're in. getting closer to someone and feeling my heart beat faster...\n\nnone of it was planned. none of it would show up in a report.\n\ni don't want to become so certain about where i'm going that nothing can reach me along the way.\n\nthere's a tree in Zhuangzi too. a carpenter walks past a giant oak and calls it useless wood.\n\nthat night the tree comes to him in a dream. the fruit trees you call useful get stripped every year, it says. being of no use is how i got to grow this big.\n\nthe race looks at the world the way the carpenter looks at the tree. a night in a tea house is useless wood. so is a feeling you can't explain yet.\n\nthat's most of what i want to protect.\n\nand there's a cook. after nineteen years his knife moves fast and easy, because he follows the openings between the joints. but at a hard knot, he slows down. when it's done, he stands there holding the knife and looks around.\n\nthe people building these systems are some of the best cooks alive. this is the hardest knot anyone has come to. it's where a master slows down.\n\nwe cloned a sheep thirty years ago, and we still don't clone people.\n\nwe can slow down. change direction. decide something isn't worth building, even if it would make someone very rich.\n\na probability can help us think about a risk. it can't decide what we have the right to risk on behalf of everyone else.\n\ni want what we build to stay answerable to the people who have to live with it. most of them will never be in the room.\n\nthere are no stands in this race. whatever happens, happens to us.\n\ni'd like the people in that room to come out and sit for a while. it's harder to gamble with ordinary life once you've spent an evening in the middle of it.\n\nthe tea house is open all night.",
+          "url": "https://x.com/ryolu_/status/2126382660780167304",
+          "createdAt": "2026-11-27T18:28:27.000Z",
+          "likes": 1744,
+          "retweets": 188
         }
       }
     }
